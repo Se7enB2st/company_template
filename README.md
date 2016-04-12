@@ -1,3 +1,3 @@
-# company_template
+landing page template 
 
-A company template for future use ...
+using JS, HTML, CSS and Bootstrap
