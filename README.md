@@ -1,3 +1,1 @@
-landing page template 
-
-using JS, HTML, CSS and Bootstrap
+Landing page template using JS, HTML, CSS and Bootstrap
