@@ -1,1 +1,1 @@
-Landing page template using JS, HTML, CSS and Bootstrap
+Simple portfolio page template built using Javascript, HTML, CSS and Bootstrap.
